@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+    <link rel="stylesheet" href="./Assignment1_SP19-BSE-120.css">
+</head>
+<body>
+    <div class="box">
+    <img id="image1" src="./cover.jpg" alt="Cafe Street Pic">
+    <img id="logo" src="./logo.jfif" alt="cafe logo">
+    <div id="text">
+        <h2>Food House</h2>
+        <p id="paragraph1">Pure and Healthy Food</p>
+    </div>
+    <ul>
+        <a href="#"><li id="list">Home</li>
+        <li id="list2">About</li>
+        <li id="list3">Contact</li></a>
+    </ul>
+    </div>
+    <div>
+        <h1 id="heading">Welcome to Food House</h1>
+        <p id="paragraph2"> Lorem ipsum dolor sit, amet consectetur adipisicing  aliquid illum ex amet consectetur adipisicing  <br>Lorem ipsum dolor sit, amet consectetur adipisicing  aliquid illum ex amet consectetur adipisicing <br> Lorem ipsum dolor sit, amet consectetur adipisicing  aliquid illum ex amet consectetur adipisicing 
+        </p>
+        <div>
+        <button id="btn1">Pizza</button>
+        <button id="btn2">Salad</button>
+        <button id="btn3">Noodle</button>
+        </div>
+    </div>
+        <img id="recipe1" src="./Salad.jfif" alt="salad">
+        <img id="recipe2" src="./Pizza.jfif" alt="pizza">
+        <img id="recipe3" src="./Beef Steak.jfif" alt="beef steak">
+        <img id="recipe4" src="./Noodles.jfif" alt="noodles">
+        <div class="recipe">
+            <h3 class="heading_color">Special Mix Salad</h3>
+            <p>Fusce dictum finibus is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+            <h3 class="heading_color">$45/$55</h3>
+       </div>
+       <div class="recipe2">
+        <h3 class="heading_color">Jalapeno Pizza</h3>
+        <p>Aliquam sagittis is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+        <h3 class="heading_color">$65/$70</h3>
+       </div>
+        
+        <div class="recipe3">
+        <h3 class="heading_color">Special Beef Steak</h3>
+       <p>Sed varius turpis is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+       <h3 class="heading_color">$30.50</h3>
+        </div>
+
+        <div class="recipe4">
+            <h3 class="heading_color">Noodles sapegette</h3>
+           <p>Noodles sagitta is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+           <h3 class="heading_color">$25.50</h3>
+            </div>
+
+    <img id="recipe5" src="./Chicken Tikka.jfif" alt="Chicken Tikka">
+    <img id="recipe6" src="./Sandwitch.jfif" alt="sandwitch">
+    <img id="recipe7" src="./Biryani.jfif" alt="biryani">
+    <img id="recipe8" src="./Shawarma.jfif" alt="Shawarma">
+
+    <div class="recipe5">
+        <h3 class="heading_color">Chicken Tikka</h3>
+       <p>Chicken Tikka is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+       <h3 class="heading_color">$80.25</h3>
+    </div>
+
+    <div class="recipe6">
+        <h3 class="heading_color">Chicken Sandwitch</h3>
+       <p>Chicken Sandwitch is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+       <h3 class="heading_color">$20/$40/$60</h3>
+    </div>
+
+    <div class="recipe7">
+        <h3 class="heading_color">Special Salad</h3>
+       <p>Special Salad is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+       <h3 class="heading_color">$94</h3>
+    </div>
+
+    <div class="recipe8">
+        <h3 class="heading_color">Chicken Shawarma</h3>
+       <p>Chicken Shawarma is very<br>famous in the town of united states<br>if any one wants  contact us freely</p>
+       <h3 class="heading_color">$15</h3>
+    </div>
+
+
+    <div> 
+    <img id="recipe9" class="ending" src="./Burger.jfif" alt="Burger">
+    <h3 id="heading2">Delicious Burger</h3>
+    <p id="endparagraph">Burger is very and people love to eat fksdafgmksdgksdagka<br>famous in the town of united states Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa veritatis soluta sapiente excepturi tenetur optio explicabo consectetur saepe quod voluptatem. Incidunt deleniti laborum illum facere aperiam deserunt laboriosam consectetur sed!</p>
+    <button id="endbtn">Read More</button>
+    </div>
+</body>
+</html>
